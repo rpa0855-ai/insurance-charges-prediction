@@ -16,3 +16,14 @@ Enter a person's age, sex, BMI, number of children, smoking status, and region �
 - `insurance_charge_model_upper.pkl` - upper bound model (95th percentile)
 
 ## Run locally
+## Tech stack
+
+Python, scikit-learn, XGBoost, SHAP, Streamlit
+
+## Model performance
+
+| Metric | Value |
+|--------|-------|
+| R² | 0.879 |
+| MAE | ₹2,469 |
+| RMSE | ₹4,330 |
